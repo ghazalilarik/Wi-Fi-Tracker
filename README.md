@@ -1,9 +1,5 @@
 # Wi-Fi-Tracker - Wi-Fi Signal Strength Analyzer + Intruder Signal Source Locator
 
-![Meme](https://i.imgflip.com/4t0m5i.jpg)
-
-*“When your ESP8266 detects an intruder and they’re a little too close for comfort.”*
-
 ## Overview
 This ESP8266-based project detects nearby devices and measures their signal strength (RSSI) to estimate proximity. It logs any unauthorized devices attempting to access the network and provides information on their relative distance based on signal strength.
 
